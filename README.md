@@ -20,6 +20,20 @@ Unzip it anywhere and run `HXSLabs.exe`. It needs no administrator rights and no
 Each feature keeps its settings in `%LOCALAPPDATA%\HXSLabs\data\`, which survives updates and
 uninstalls, so turning one off and back on loses nothing.
 
+## What it looks like
+
+![The clip library, with an editor that joins clips and lays video over them](screenshots/clip.png)
+*Clip — the library, grouped by game, with everything the replay buffer caught.*
+
+![The voice changer, with presets and audio routing](screenshots/voice.png)
+*Voice — presets down the side, and the routing that makes Discord hear it as a microphone.*
+
+![Filter, showing the recognizer, the microphone test and what to listen to](screenshots/filter.png)
+*Filter — try it on your own voice before a stream depends on it.*
+
+![The Get features page, listing Clip, Voice and Filter](screenshots/features.png)
+*Features install from inside the app, and come off again just as easily.*
+
 ## Windows will warn you about the download
 
 HXSLabs is not code-signed, so SmartScreen shows *"Windows protected your PC"* the first time, and
