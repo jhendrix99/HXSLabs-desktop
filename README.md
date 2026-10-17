@@ -60,8 +60,30 @@ The app checks for newer features by itself and applies them at the next start. 
 download it again and unzip it over the old copy — your settings and installed features live
 elsewhere and are untouched.
 
+## Support
+
+Email **support@hendrixservices.us**. Saying which feature, what you expected and what
+happened gets a useful answer fastest. If something went wrong, the log is at
+`%LOCALAPPDATA%\HXSLabs\logs\` and attaching it saves a round trip.
+
 ## Privacy
 
 Nothing you record, say or filter leaves your PC. Speech recognition in Filter runs locally on a
 model downloaded once. The app fetches two things from the internet and nothing else: the feature
 catalog in this repository, and the promo banner feed.
+
+## Legal
+
+HXSLabs is free software provided as is. **Hendrix Services LLC makes no guarantees about
+this software and is not responsible for any faults, loss of data, or other damage arising
+from its use.** You use it at your own risk, and recordings and settings are yours to keep
+backed up.
+
+Voice can install VB-Audio Virtual Cable, which is made by VB-Audio and not by Hendrix
+Services LLC. It is downloaded from VB-Audio, only after you agree to it, and is covered by
+VB-Audio's own terms.
+
+Full terms: <https://hxslabs.com/legal>
+
+HXSLabs is a product of Hendrix Services LLC, PO Box 1101, Danville, KY 40423.
+Copyright © 2026 Hendrix Services LLC. All Rights Reserved.
